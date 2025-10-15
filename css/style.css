@@ -19,8 +19,8 @@ header {
   box-shadow: 0 4px 10px rgba(0,0,0,0.2);
 }
 header .logo {
-  width: 130px;
-  border-radius: 50%;
+  width: 150px;
+  border-radius: 60%;
   background: #ffffff22;
   padding: 10px;
   margin-bottom: 10px;
@@ -130,3 +130,4 @@ footer {
   .map-wrapper { height: 260px; }
   .galeria img { width: 45%; height: auto; }
 }
+
